@@ -14,10 +14,10 @@ Estudante de Design Digital no Campus da UFC em Quixadá. Tem interesse em desen
 
 #### Hilderjares Martins
 
-
+Hilderjares é estudante de Sistemas de Informação na Universidade Federal do Ceará - Campus Quixadá e Desenvolvedor Web. 
 
 #### Victor Lucas
 
-Estudante de Engenharia de Software no Campus da UFC em Quixadá
+Victor Lucas, graduando em Engenharia de Software pela UFC, campus Quixadá, é atualmente desenvolvedor full-stack na LinkedBy. Aficionado por inovação e atento a novas tecnologias, busca compartilhar conhecimentos em fóruns, grupos de estudo e na vasta comunidade. Trabalha com desenvolvimento web há cinco anos e tem experiências em diversas tecnologias, dentre elas PHP, Java, Javascript, Python, C# e outras.
 
 #### 
